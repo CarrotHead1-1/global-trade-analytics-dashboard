@@ -22,7 +22,7 @@ Data is sourced from the World Bank and UN Comtrade API's / Downloadable dataset
 
 ```bash
 #clone repo
-git clone  https://github.comhttps://github.com/CarrotHead1-1/global-trade-analytics-dashboard.git
+git clone  https://github.com/CarrotHead1-1/global-trade-analytics-dashboard.git
 cd global-trade-analytics-dashboard
 
 #Install Python Dependencies
