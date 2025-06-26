@@ -15,7 +15,7 @@ Data is sourced from the World Bank and UN Comtrade API's / Downloadable dataset
 
 ## Data Sources
 
-- [World Trade Bank](https://worldbank.org)
+- [World Trade Bank](https://worldbank.org) - Data from database: World Development Indicators, Last Updated: 06/05/2025
 - [UN Comtrade API](https://comtrade.org/data)
 
 ## Getting Started 
