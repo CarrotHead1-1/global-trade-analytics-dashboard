@@ -1,29 +1,34 @@
-# Global Trade & Economic Dashboard
+# Global Economic Dashboard
 
-This project visualises economic and trade indicators across muliple countries using Tableau. 
-Data is sourced from the World Bank and UN Comtrade API's / Downloadable datasets 
+This project visualises economic indicators across multiple countries using Tableau.  
+Data is sourced exclusively from the [World Bank](https://worldbank.org) World Development Indicators.
 
-## Dashboard Features 
+## Dashboard Features
 
-- GDP, Inflation, Current Account Balance
-- Imports / Exports by country and Region
-- Trade balance and trade-to-GDP ratio
-- Year-over-year ecconomic comparisons
+- **Map**  
+  Explore economic indicators geographically, comparing countries at a glance.
 
-## Project Structure 
+- **Line Chart**  
+  Track a variety of economic indicators over time, enabling clear temporal comparisons.
 
+- **Tables**  
+  View average indicator values for a selected country and year, supporting deeper country-level analysis.
 
-## Data Sources
+## Data Source
 
-- [World Trade Bank](https://worldbank.org) - Data from database: World Development Indicators, Last Updated: 06/05/2025
-- [UN Comtrade API](https://comtrade.org/data)
+- [World Bank](https://worldbank.org) – World Development Indicators (Last Updated: 06/05/2025)
 
-## Getting Started 
+## Project Structure
+
+- Tableau workbook containing the dashboard
+- Data preparation scripts / CSV exports from World Bank
+
+## Getting Started
 
 ```bash
-#clone repo
-git clone  https://github.com/CarrotHead1-1/global-trade-analytics-dashboard.git
+# Clone repo
+git clone https://github.com/CarrotHead1-1/global-trade-analytics-dashboard.git
 cd global-trade-analytics-dashboard
 
-#Install Python Dependencies
+# Install Python Dependencies (if needed for preprocessing)
 pip install -r requirements.txt
